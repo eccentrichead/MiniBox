@@ -2,8 +2,17 @@ MiniBox
 =======
 
 Mini 3D printer from aluminum extrusions
-External dimmensions will be 280x280x320mm
-Print area should be 180x180x120
+
+External dimmensions will be 280x280x320mm  
+Print area should be 180x180x120mm
+
+Details:
+- 8mm rods
+- GT2 belts and pulleys
+- Nema17 40mm stepper motors
+- KOS controller - http://www.byq3d.eu/index.php?id_product=18&controller=product&id_lang=7
+- 200-350W 24V power supply
+- E3D v6 1.75mm hotend
 
 Project derived from:
 - Tantillus - http://www.tantillus.org/Home.html
