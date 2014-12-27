@@ -20,5 +20,5 @@ TODO:
 - XY carriage
 
 Screenshots:
-![screen01](images/screenshot01.jpg?raw=true)
-![screen02](images/screenshot02.jpg?raw=true)
+![screen01](/images/screenshot01.jpg?raw=true)
+![screen02](/images/screenshot02.jpg?raw=true)
