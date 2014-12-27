@@ -2,6 +2,8 @@ MiniBox
 =======
 
 Mini 3D printer from aluminum extrusions
+External dimmensions will be 280x280x320mm
+Print area should be 180x180x120
 
 Project derived from:
 - Tantillus - http://www.tantillus.org/Home.html
@@ -12,3 +14,11 @@ Project derived from:
 - Eustathios Mini - http://www.thingiverse.com/thing:513955
 
 Still in very WIP stage :)
+
+TODO:
+- Z axis
+- XY carriage
+
+Screenshots:
+![screen01](images/screenshot01.jpg?raw=true)
+![screen02](images/screenshot02.jpg?raw=true)
